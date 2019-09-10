@@ -1,5 +1,5 @@
 # CharlesGraciano.github.io
-# Charles Gracaiano
+# Charles Graciano
 
 ### I am an artist. This is my portfolio site.
 
